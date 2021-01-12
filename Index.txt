@@ -1,1 +1,2 @@
-i have created this index.txt for git
+i have created this index.txt for git with version 2
+
